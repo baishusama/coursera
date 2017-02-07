@@ -7,7 +7,7 @@ The course's full name is ["Single Page Web Applications with AngularJS"](https:
 My solutions to the course's assignments:
 
 * [x] [Solution to Module1's assignment](https://baishusama.github.io/coursera/Angular%40JHU/module1-solution/index.html)
-* [ ] [Solution to Module2's assignment]()
-* [ ] [Solution to Module3's assignment]()
-* [ ] [Solution to Module4's assignment]()
-* [ ] [Solution to Module5's assignment]()
+* [x] [Solution to Module2's assignment](https://baishusama.github.io/coursera/Angular%40JHU/module2-solution/index.html)
+* [ ] [Solution to Module3's assignment](https://baishusama.github.io/coursera/Angular%40JHU/module3-solution/index.html)
+* [ ] [Solution to Module4's assignment](https://baishusama.github.io/coursera/Angular%40JHU/module4-solution/index.html)
+* [ ] [Solution to Module5's assignment](https://baishusama.github.io/coursera/Angular%40JHU/module5-solution/index.html)
